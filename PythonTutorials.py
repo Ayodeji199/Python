@@ -6,3 +6,5 @@ print("Hi my name is " + myName +"!")
 #python developed programs line by line 
 print('o-----')
 print(' |||||||||')
+# The * sign multiplies the values against the specified int 
+print('*' * 10)
