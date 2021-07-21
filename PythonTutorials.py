@@ -3,3 +3,6 @@
 # a value to the variable my name and then print this out 
 myName = "Deji"
 print("Hi my name is " + myName +"!")
+#python developed programs line by line 
+print('o-----')
+print(' |||||||||')
